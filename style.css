@@ -1,0 +1,16 @@
+body
+{
+  font-family: 'Akaya Telivigala', cursive;
+  background: #E2E8DD;
+}
+
+.header
+  {
+  background: #95A3A4;
+  color: white; 
+  }
+
+.footer {
+   text-align: center;
+   text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
